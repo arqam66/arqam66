@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/bcdrL](https://shorturl.at/bcdrL)
 
-- ⚡ Fun fact **I am like coding from heart**
+- ⚡ Fun fact **I like coding from the heart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
