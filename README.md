@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arqam hussain</h1>
 <h3 align="center">A passionate Python developer from pakistan</h3>
 
-<img align="right" alt="coding" widh= "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" widh= "500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arqam66&label=Profile%20views&color=0e75b6&style=flat" alt="arqam66" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arqam66" alt="arqam66" /></a> </p>
 
 - 🌱 I’m currently learning **web development in python**
 
@@ -26,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arqam66&show_icons=true&locale=en&layout=compact" alt="arqam66" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arqam66&show_icons=true&locale=en" alt="arqam66" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arqam66&" alt="arqam66" /></p>
