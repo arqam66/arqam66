@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
 <h1 align="center">Hi 👋, I'm Arqam Hussain</h1>
 <h3 align="center">I am a passionate Pakistani developer focused on innovative user experiences</h3>
