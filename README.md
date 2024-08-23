@@ -1,3 +1,4 @@
+![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
 # 💫 About Me:
 <br>👨‍💻 A Driven Software Engineering Student<br>I'm a passionate software engineering student with a strong love for Python development. I thrive on crafting clean, efficient code and always aim to build solutions that make a difference.<br><br>🔧 Curious Mind<br>When I'm not coding, you'll find me exploring the world through photography, capturing moments that tell a story. I also love diving into books on psychology and philosophy, always eager to understand how the mind works and what makes people tick.<br><br>🎯 Fun Fact:<br>I once tried to bake a cake and created something that looked like modern art! 🎂😅
 
