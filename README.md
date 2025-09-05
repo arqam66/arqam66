@@ -17,28 +17,28 @@ With a commitment to excellence, I prioritize **performance optimization**, **ac
 ## 🛠️ Technical Expertise  
 
 ### Frontend Technologies  
-- **HTML5** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-- **CSS3** ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-- **JavaScript (ES6+)** ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-- **TypeScript** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)  
-- **React.js** ![React.js](https://img.shields.io/badge/react-%2300D8FF.svg?style=flat-square&logo=react&logoColor=white)  
-- **Vue.js** ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)  
-- **Angular** ![Angular](https://img.shields.io/badge/angular-%23DD1B16.svg?style=flat-square&logo=angular&logoColor=white)  
-- **SASS/SCSS** ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=flat-square&logo=sass&logoColor=white)  
-- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)  
-- **Tailwind CSS** ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)  
+- **HTML5** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&logoWidth=30)  
+- **CSS3** ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&logoWidth=30)  
+- **JavaScript (ES6+)** ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black&logoWidth=30)  
+- **TypeScript** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white&logoWidth=30)  
+- **React.js** ![React.js](https://img.shields.io/badge/react-%2300D8FF.svg?style=flat-square&logo=react&logoColor=white&logoWidth=30)  
+- **Vue.js** ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white&logoWidth=30)  
+- **Angular** ![Angular](https://img.shields.io/badge/angular-%23DD1B16.svg?style=flat-square&logo=angular&logoColor=white&logoWidth=30)  
+- **SASS/SCSS** ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=flat-square&logo=sass&logoColor=white&logoWidth=30)  
+- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white&logoWidth=30)  
+- **Tailwind CSS** ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white&logoWidth=30)  
 
 ### Frameworks & Libraries  
-- **Redux** ![Redux](https://img.shields.io/badge/redux-%23764AF1.svg?style=flat-square&logo=redux&logoColor=white)  
-- **jQuery** ![jQuery](https://img.shields.io/badge/jquery-%230769AE.svg?style=flat-square&logo=jquery&logoColor=white)  
-- **Axios** ![Axios](https://img.shields.io/badge/axios-%23232F3E.svg?style=flat-square&logo=axios&logoColor=white)  
-- **Next.js** ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)  
-- **Gatsby** ![Gatsby](https://img.shields.io/badge/gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white)  
+- **Redux** ![Redux](https://img.shields.io/badge/redux-%23764AF1.svg?style=flat-square&logo=redux&logoColor=white&logoWidth=30)  
+- **jQuery** ![jQuery](https://img.shields.io/badge/jquery-%230769AE.svg?style=flat-square&logo=jquery&logoColor=white&logoWidth=30)  
+- **Axios** ![Axios](https://img.shields.io/badge/axios-%23232F3E.svg?style=flat-square&logo=axios&logoColor=white&logoWidth=30)  
+- **Next.js** ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white&logoWidth=30)  
+- **Gatsby** ![Gatsby](https://img.shields.io/badge/gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white&logoWidth=30)  
 
 ### DevOps & Tools  
-- **Git** ![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=flat-square&logo=git&logoColor=white)  
-- **GitHub** ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)  
-- **GitLab** ![GitLab](https://img.shields.io/badge/gitlab-%23FCA121.svg?style=flat-square&logo=gitlab&logoColor=white)  
+- **Git** ![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=flat-square&logo=git&logoColor=white&logoWidth=30)  
+- **GitHub** ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white&logoWidth=30)  
+- **GitLab** ![GitLab](https://img.shields.io/badge/gitlab-%23FCA121.svg?style=flat-square&logo=gitlab&logoColor=white&logoWidth=30)  
 
 ### Additional Skills  
 - **UI/UX Design**: Proficient in tools like Figma and Adobe XD for creating user-focused designs.  
@@ -53,4 +53,4 @@ I believe in writing **clean, maintainable, and well-documented code** to ensure
 
 <p align="center">
   <em>Let's build something extraordinary together!</em>
-</p>
+</p>  
